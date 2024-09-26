@@ -22,7 +22,7 @@ This project provides a Python implementation of the **N-Mens Morris** game, als
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/n-mens-morris.git
+    git clone git@github.com:marijazhiv/Nine-men-s-morris-game.git
     ```
 
 2. Navigate to the project directory:
@@ -42,5 +42,5 @@ This project provides a Python implementation of the **N-Mens Morris** game, als
 To run the N-Mens Morris game, use the main script. Replace `main_script.py` with the actual script name:
 
 ```bash
-python main_script.py
+python main.py
 
